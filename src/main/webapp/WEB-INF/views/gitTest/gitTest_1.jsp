@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>Master</h1>
+	<h2>Master2</h2>
 	
 	<ul>
 		<li>choa</li>
