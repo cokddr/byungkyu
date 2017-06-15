@@ -13,12 +13,10 @@
 	<ul>
 		<li>choa</li>
 		<li>iu</li>
-		<li>master</li>
-<<<<<<< HEAD
-		
-=======
 		<li>momo</li>
->>>>>>> sub_3
+		<li>master</li>
+		<li>sub_4</li>
+
 	</ul>
 </body>
 </html>
